@@ -1,0 +1,19 @@
+{
+    "name": "delwathon/student-module",
+    "description": "Student management module for eduthon product",
+    "type": "laravel-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delwathon IT Solutions",
+            "email": "eduthon@delwathon.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Modules\\Admission\\": ""
+        }
+    }
+}
